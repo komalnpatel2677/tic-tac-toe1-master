@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>  <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="maroon">#040504</color>
+    <color name="teal">#0E130E</color>
+    <color name="green">#080908</color>
+    <color name="blue">#0E100E</color>
+    <color name="navy">#4CAF50</color>
+    <color name="black">#4CAF50</color>
+
+</resources>
